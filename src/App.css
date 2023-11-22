@@ -1,0 +1,11 @@
+
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: blue;
+}
+button{
+  cursor: pointer;
+  padding: 20px;
+}
